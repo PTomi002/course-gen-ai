@@ -34,5 +34,5 @@ poetry build
 
 To execute the Python code run:
 ```bash
-poetry run python course_generative_ai_python/main.py
+poetry run python course_generative_ai_python/XYZ.py
 ```
